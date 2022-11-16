@@ -1,0 +1,30 @@
+<!DOCTYPE html1>
+  <html1>
+    <title>My Referencing Page</title>
+    <link rel="stylesheet" href="ref.css">
+    <body>
+      
+      <p class="a">This is implementation page listing tools and references.</p>
+      <p class="b"> Tools: <a href="https://www.google.com">"google" </a>  <a href="https://www.w3schools.com">"w3schools" </a>
+      <a href = "http://wiki.cs.manchester.ac.uk"> "wiki of Uom" </a></p>
+      <p class="b">For html(head/title/body ect.):
+      <a href=" https://www.w3schools.com/tags/tag_doctype.asp">https://www.w3schools.com/tags/tag_doctype.asp</a>  
+      </p>
+      <p class="b">For css(background/size/font ect.):
+      <a href="https://www.w3schools.com/css/default.asp"> https://www.w3schools.com/css/default.asp</a>
+      </p>
+      <p class="b">For php(if..else statement/index ect.):
+      <a href="https://www.w3schools.com/php/default.asp"> https://www.w3schools.com/php/default.asp </a> 
+      </p>
+      <p class="b">For mysql&php(insert, select ect.):
+      <a href="https://www.w3schools.com/php/php_mysql_select.asp"> https://www.w3schools.com/php/php_mysql_select.asp </a> 
+      </p>
+      <p class="b">For database:
+      <a href="https://wiki.cs.manchester.ac.uk/index.php/Web_Dashboard/Database"> https://wiki.cs.manchester.ac.uk/index.php/Web_Dashboard/Database </a> 
+      </p>
+
+      <p class="c"> <a href="http://10.2.232.133/aboutme/myhomepage.html"> Back To Home Page </a> </p>
+      <p> <a href="http://10.2.232.133/php/ex6/myPHPpage.php"> Back </a> </p>
+    </body>
+  <html1>
+

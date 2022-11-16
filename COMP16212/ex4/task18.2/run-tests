@@ -1,0 +1,4 @@
+#!/bin/bash
+set v
+sum CheckSum.java
+java CheckSum < CheckSum.java

@@ -1,0 +1,9 @@
+#!/bin/bash
+set -v
+java StreetOrder
+java StreetOrder regents-crescent.txt regents-crescent-sorted.txt
+cat regents-crescent-sorted.txt
+java StreetOrder input.txt output.txt
+cat output.txt
+java StreetOrder input2.txt output2.txt
+cat output2.txt

@@ -1,0 +1,16 @@
+Rupert Rodgers-Smythe, 4, M25 7QZ
+  Duplicate: 12:27 Manchester 099
+  First Occurence: 07:37 Manchester 538
+Sarah Peacock, 6, M25 7QZ
+  Duplicate: 14:59 Manchester 537
+  First Occurence: 10:25 Manchester 538
+Sarah Peacock, 6, M25 7QZ
+  Duplicate: 19:01 Manchester 539
+  First Occurence: 10:25 Manchester 538
+Margaret Chopin, 9, M37 9MP
+  Duplicate: 19:30 Manchester 308
+  First Occurence: 12:14 Manchester 299
+Sarah Peacock, 6, M25 7QZ
+  Duplicate: 20:59 Manchester 540
+  First Occurence: 10:25 Manchester 538
+There are 5 duplicate votes

@@ -1,0 +1,5 @@
+#!/bin/bash
+set -v
+
+java Anagrams 1234	
+java Anagrams abcd

@@ -1,0 +1,4 @@
+#!/bin/bash
+set -v
+java Uuencode test.bin
+uuencode test.bin test.bin

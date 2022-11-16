@@ -1,0 +1,5 @@
+#!/bin/bash
+set -v
+
+java DuplicateVoters voting.txt voting-duplicates.txt
+cat voting-duplicates.txt

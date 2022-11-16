@@ -1,0 +1,6 @@
+#!/bin/bash
+set -v
+java TestMinMaxArray 5 1 7 10
+java TestMinMaxArray 1 2 3
+java TestMinMaxArray
+java TestMinMaxArray a b c

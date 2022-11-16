@@ -1,0 +1,6 @@
+#!/bin/bash
+set -v
+java MeanMinMaxMinusMean 5 1 7 10
+java MeanMinMaxMinusMean 1 2 3
+java MeanMinMaxMinusMean
+java MeanMinMaxMinusMean a b c

@@ -1,0 +1,11 @@
+MagicWorker.java:20: error: cannot find symbol
+    for (int index = 0; index < magicBalls.getSize(); index++)
+                                          ^
+  symbol:   method getSize()
+  location: variable magicBalls of type ArrayList<String>
+MagicWorker.java:22: error: cannot find symbol
+      magicBalls.get(index).doMagic(spellNumber);
+                           ^
+  symbol:   method doMagic(int)
+  location: class String
+2 errors

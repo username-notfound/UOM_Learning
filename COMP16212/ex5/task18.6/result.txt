@@ -1,0 +1,3 @@
+Name	Coursework	Exam
+Fred Bloggs	55	65
+Susan Smart	100	90

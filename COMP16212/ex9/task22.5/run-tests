@@ -1,0 +1,9 @@
+#!/bin/bash
+set -v
+cat input.txt
+java ReverseLines input.txt output.txt
+cat output.txt
+
+cat input2.txt
+java ReverseLines input2.txt output2.txt
+cat output2.txt
